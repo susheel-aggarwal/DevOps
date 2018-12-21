@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 abc1
 xyz2
 abc3
 xyz4
 this is in master branch
+=======
+abc
+xyz
+abc
+xyz
+Added in feature1
+>>>>>>> feature1
